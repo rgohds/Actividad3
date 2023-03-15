@@ -1,2 +1,1 @@
-package PACKAGE_NAME;public class EnumValor {
-}
+public enum EnumValor { dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, As, Jota, Reyna,Rey }

@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Deck miDeck = new Deck();
+        miDeck.shuffle();
+        miDeck.head();
+        miDeck.pick();
+        miDeck.hand();
     }
 }

@@ -1,2 +1,1 @@
-package PACKAGE_NAME;public class EnumColor {
-}
+public enum EnumColor { rojo, negro }

@@ -1,2 +1,1 @@
-package PACKAGE_NAME;public class EnumPalo {
-}
+public enum EnumPalo { treboles, corazones, picas, diamantes }
